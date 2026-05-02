@@ -6,6 +6,9 @@ An automated Retrieval-Augmented Generation (RAG) pipeline built with n8n to dyn
 
 This project automates the extraction and semantic analysis of financial documents (like quarterly earnings reports). Instead of manually searching through dense PDFs, users can query a chat interface. An intelligent routing layer classifies the user's intent to either query the vector database for specific financial data or respond conversationally for general inquiries.
 
+<img width="1804" height="598" alt="image" src="https://github.com/user-attachments/assets/9d47d7e8-2cba-46e2-8000-404fc2a28453" />
+
+
 ## ✨ Key Features
 
 *   **Automated Data Ingestion:** Actively monitors a Google Drive folder for new financial reports and downloads them automatically.
